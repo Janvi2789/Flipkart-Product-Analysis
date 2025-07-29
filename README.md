@@ -1,4 +1,4 @@
-# Flipkart Ecommerce Analysis
+# Flipkart Ecommerce Product Analysis
 
 ## OVERVIEW:
 This project aims to provide an analysis of e-commerce products listed on Flipkart and explore various dimensions like categories, brands, discount patterns, popularity levels etc. The dataset was sourced through kaggle and appears to be synthetic, but it mimics actual e-commerce data. The goal is to identify category-wise product availability, pricing trends, discount patterns, and top-performing category.
